@@ -1,9 +1,5 @@
 # Timer Pomodoro
-
-<div align="center">
-  <img src="timer.png" alt="Timer Pomodoro" width="200">
-</div>
-
+![image](https://github.com/marcianomatias/pomodoro_time/assets/10820742/39667c59-e3c3-4f5a-a982-a30b9f3cc3b2)
 ## Descrição
 
 Este é um aplicativo de Timer Pomodoro desenvolvido em HTML, CSS e JavaScript por Marciano Matias. O Timer Pomodoro é uma técnica de gerenciamento de tempo que ajuda a melhorar a produtividade, dividindo o trabalho em períodos de tempo focados e intervalos regulares.
